@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning  JavaScript.
 - 👯 I’m looking to  colaborar no  desenvolvimento de projetos que irá agregar na vida das pessoas.
-- 📫  contate-me através do e-mail: tabithaff@gmail.com
+- 📫 Entre em contato através do e-mail: tabithaff@gmail.com
 - 😄 Pronouns: Ela/dela.
 - ⚡ Fun fact:  Aprendendo  a programar totalmente do zero.
 
