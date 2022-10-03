@@ -1,10 +1,8 @@
-### Hi th, eu sou a Tabitha 🙋‍♀️
+### Oie , eu sou a Tabitha 🙋‍♀️
 
-- 🌱 I’m currently learning  JavaScript.
-- 👯 I’m looking to  colaborar no  desenvolvimento de projetos que irá agregar na vida das pessoas.
+- 🌱 Estudante de Análise e desenvolvimento de sistemas.
 - 📫 Entre em contato através do e-mail: tabithaff@gmail.com
 - 😄 Pronouns: Ela/dela.
-- ⚡ Fun fact:  Aprendendo  a programar totalmente do zero.
 
 
 <div>
