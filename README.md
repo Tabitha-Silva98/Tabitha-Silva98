@@ -1,8 +1,7 @@
 ### Oie , eu sou a Tabitha 🙋‍♀️
 
-- 🌱 Estudante de Análise e desenvolvimento de sistemas.
-- 📫 Entre em contato através do e-mail: tabithaff@gmail.com
-- 😄 Pronouns: Ela/dela.
+- 🌱 Em busca de novas experiências 
+- 📫 Entre em contato através do e-mail tabithaff@gmail.com
 
 
 <div>
